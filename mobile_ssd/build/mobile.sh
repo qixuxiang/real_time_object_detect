@@ -1,0 +1,1 @@
+./mobile_ssd --model=MobileNetSSD_deploy.caffemodel --proto=deploy.prototxt --video=test04.mp4 --out=mobie_ssd_indoor.avi

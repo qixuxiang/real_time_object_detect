@@ -1,0 +1,3 @@
+/home/mobile_ssd/build/CMakeFiles/rebuild_cache.dir
+/home/mobile_ssd/build/CMakeFiles/mobile_ssd.dir
+/home/mobile_ssd/build/CMakeFiles/edit_cache.dir

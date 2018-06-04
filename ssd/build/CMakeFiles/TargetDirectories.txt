@@ -1,0 +1,3 @@
+/home/ssd/build/CMakeFiles/rebuild_cache.dir
+/home/ssd/build/CMakeFiles/ssd.dir
+/home/ssd/build/CMakeFiles/edit_cache.dir

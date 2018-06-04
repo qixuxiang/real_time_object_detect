@@ -1,0 +1,1 @@
+./yolo --cfg=yolov2.cfg --class_names=coco.names --model=yolov2.weights --source=test04.mp4 --style=box --out=yolov2_indoor.avi
